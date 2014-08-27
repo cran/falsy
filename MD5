@@ -1,0 +1,16 @@
+7a4ba5c5db944507d456db4dadea02ed *DESCRIPTION
+3d55ef9a10c04c95a867277c02d32bca *LICENSE
+5ac0a91edb91e81afef5c04e5ef130f8 *NAMESPACE
+d614dfffeb5070c95ffb342a3a2d9e01 *R/falsy-package.r
+ce34755ca5b00803e26552c41131a66c *README.md
+88e442cb26f5a1b1068ef26017b8a855 *man/FALSY.Rd
+4ac258759a0a4eefa9f647721469a36d *man/Falsy-package.Rd
+92ec4786f71907690c0c05f704a82e49 *man/TRUTHY.Rd
+c5368b3d1d9d2b1f041ae2cab6f02613 *man/and.Rd
+9f1da377b1dea51e734f945101e11340 *man/is_falsy.Rd
+4bfc2b002736a108185fa3d89aa8858c *man/is_truthy.Rd
+63d732333739b7e39ad9556eee957cef *man/nay.Rd
+4b1d1b5ab21eb906869cb963bfb9070f *man/or.Rd
+a653a33e06b073c5d1090f9f17e12ff7 *man/try_quietly.Rd
+8b10ef16cb52ce3a1db824c033040bea *tests/testthat.R
+7c8ba686757400270e96f7b432a8085f *tests/testthat/test_falsy.R
